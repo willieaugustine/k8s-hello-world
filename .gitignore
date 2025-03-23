@@ -1,0 +1,11 @@
+# Ignore system files
+*.log
+*.tmp
+*.bak
+
+# Ignore kubeconfig
+.kube/
+.kubeconfig
+
+# Ignore temporary Minikube files
+minikube/
